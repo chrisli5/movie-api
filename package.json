@@ -12,6 +12,9 @@
     "url": "git+https://github.com/chrisli5/movie-api.git"
   },
   "keywords": [],
+  "engines": {
+    "node": "10.16.0"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
